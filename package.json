@@ -1,0 +1,22 @@
+{
+  "name": "grupo_tamimi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvicente9/grupotamimi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvicente9/grupotamimi/issues"
+  },
+  "homepage": "https://github.com/jvicente9/grupotamimi#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
