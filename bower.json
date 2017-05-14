@@ -1,0 +1,20 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/jvicente9/grupotamimi",
+  "authors": [
+    "João Vicente <jvicentecamargo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
